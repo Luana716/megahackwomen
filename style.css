@@ -1,0 +1,86 @@
+body{
+    height: 100vh;
+    width: 100vh;
+    background:#FFFFFF url("fundo.jpg") repeat-x;
+    max-width: 700px;
+    font-family: Poppins;
+    
+}
+
+#navbarNav, #topo{
+   
+    width: 85.3rem;
+    height: 6rem;
+    
+}
+
+#login{
+    background-color:rgb(123,104,238,0.4);
+    
+    margin: 7rem 0 0 29rem;
+    width: 25rem;
+    height: 22rem;
+    padding-left: 5rem;
+    padding-top:2rem;
+}
+.entrar, button, #pronto{
+    width: 15rem;
+    height: 2.4rem;
+    border-radius: .3rem;
+    border: none;
+}
+button, #pronto{
+    background:#04D361;
+}
+button:hover{
+    background:#04BF58;
+}
+body a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    text-decoration: none;
+    color:#FFA500;
+}
+.row{
+    display: flex;
+}
+#logo, .nav{
+    padding-left: 1.4rem;
+}
+.nav{
+    padding-left:1.4rem;
+}
+.home #pgatual{
+    color: #FFA500;
+    font-weight: bold;
+    cursor: text;
+}
+#criar{
+    color: #FFA500;
+    font-weight: bold;
+}
+#formulario{
+    background-color:rgb(123,104,238,0.4);
+    
+    margin: 6rem 0 0 23rem;
+    width: 38rem;
+    height: 25rem;
+    padding-left: 8rem;
+    padding-top:2rem;
+}
+body{
+    width: 750px;
+}
+
+.form{
+    
+    width: 22rem;
+    height: 2.4rem;
+    border-radius: .3rem;
+    border: none;
+}
+#pronto{
+    margin-left: 3.2rem;
+}
